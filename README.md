@@ -1,8 +1,8 @@
 # Effort to add State Machine to BLoC package
 
-This repository provide an experimental implementation of State Machine for bloc and some examples to demonstrate it's usage.
+This repository provides an experimental implementation of State Machine for bloc and some examples to demonstrate its usage.
 
-See [issue] on github for the proposal discussion
+See [#3246](https://github.com/felangel/bloc/issues/3246) on github for the proposal discussion
 
 # Credits
 
